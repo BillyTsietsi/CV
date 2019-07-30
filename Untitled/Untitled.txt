@@ -1,0 +1,47 @@
+https://sdmoviespoint.live/game-of-thrones-season-7-full-hd-free-download-720p-sd42/
+
+ng generate component registration
+
+ng generate servnice Task
+
+//servece
+Constructor () {
+getMyTask(){
+
+var MyTask =
+
+return myTask
+
+
+////registration
+Constructor (public taskservice :taskservices) {
+this task = this.taskService.getMyTask()
+
+}
+
+
+
+https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/
+git push -u origion
+
+https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61
+
+
+npm i -g cordova
+ionic cordova prepare android
+
+
+
+good
+ionic cordova run android
+
+ionic start MyApp blank
+npm install --save firebase
+
+
+https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+
+
+
+https://ionicframework.com/docs/installation/android
+
